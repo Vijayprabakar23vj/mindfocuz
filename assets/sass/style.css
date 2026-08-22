@@ -848,7 +848,7 @@ img {
   font-weight: 500;
   font-size: 70px;
   line-height: 75px;
-  color: #fff;
+  color: #000;
   margin-bottom: 10px;
   text-transform: capitalize;
 }
@@ -866,7 +866,7 @@ img {
 .wpo-page-title .wpo-breadcumb-wrap ol li {
   display: inline-block;
   padding: 0px 15px;
-  color: #ffbc00;
+  color: #061943;
   position: relative;
   font-size: 20px;
   font-weight: 400;
@@ -899,7 +899,7 @@ img {
   display: none;
 }
 .wpo-page-title .wpo-breadcumb-wrap ol li a {
-  color: #fff;
+  color: #000;
   font-size: 20px;
   transition: all 0.3s;
 }
